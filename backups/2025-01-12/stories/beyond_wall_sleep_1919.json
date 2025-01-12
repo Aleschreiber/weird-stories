@@ -1,0 +1,32 @@
+{
+    "id": "beyondwallsleep1919",
+    "title": {
+      "original": "Beyond the Wall of Sleep",
+      "translated": null,
+      "alternate": null
+    },
+    "author": {
+      "name": "H. P. Lovecraft",
+      "birthdeath": "1890-1937",
+      "nationality": "American"
+    },
+    "publication": {
+      "firstpublished": "1919",
+      "collection": "Pine Cones",
+      "year": 1919
+    },
+    "mythos": {
+      "entities": [],
+      "locations": ["Tsan-Chan empire"],
+      "books": []
+    },
+    "connections": {
+      "relatedstories": []
+    },
+    "metadata": {
+      "added": "2025-01-12",
+      "verified": false,
+      "sources": ["Original publication"]
+    }
+  }
+  

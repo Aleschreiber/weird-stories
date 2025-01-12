@@ -30,3 +30,4 @@ web/_site/
 # Testing
 .coverage
 htmlcov/
+venv_test/

@@ -1,0 +1,33 @@
+{
+    "id": "nyarlathotep1920",
+    "title": {
+      "original": "Nyarlathotep",
+      "translated": null,
+      "alternate": null
+    },
+    "author": {
+      "name": "H. P. Lovecraft",
+      "birthdeath": "1890-1937",
+      "nationality": "American"
+    },
+    "publication": {
+      "firstpublished": "1920",
+      "collection": "United Amateur",
+      "year": 1920
+    },
+    "mythos": {
+      "entities": ["Nyarlathotep"],
+      "locations": [],
+      "books": [],
+      "notes": ["First appearance of Nyarlathotep, later developed as an Outer God"]
+    },
+    "connections": {
+      "relatedstories": []
+    },
+    "metadata": {
+      "added": "2025-01-12",
+      "verified": false,
+      "sources": ["Original publication"]
+    }
+  }
+  

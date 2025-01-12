@@ -1,0 +1,32 @@
+{
+    "id": "dagon1917",
+    "title": {
+      "original": "Dagon",
+      "translated": null,
+      "alternate": null
+    },
+    "author": {
+      "name": "H. P. Lovecraft",
+      "birthdeath": "1890-1937",
+      "nationality": "American"
+    },
+    "publication": {
+      "firstpublished": "1917",
+      "collection": "The Vagrant",
+      "year": 1917
+    },
+    "mythos": {
+      "entities": ["Dagon"],
+      "locations": [],
+      "books": []
+    },
+    "connections": {
+      "relatedstories": ["shadowoverinnsmoth1936"]
+    },
+    "metadata": {
+      "added": "2025-01-12",
+      "verified": false,
+      "sources": ["Original publication"]
+    }
+  }
+  
