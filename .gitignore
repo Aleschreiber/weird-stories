@@ -1,5 +1,32 @@
+# Python
 *.pyc
 __pycache__/
 .pytest_cache/
 venv/
 .env
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+validation.log
+docs/_build/
+web/_site/
+
+# Environment
+.python-version
+.env.local
+.env.*.local
+
+# Testing
+.coverage
+htmlcov/

@@ -1,0 +1,16 @@
+project:
+  name: "Weird Stories"
+  version: "0.1.0"
+  data_dir: "data"
+  stories_dir: "data/stories"
+  authors_dir: "data/authors"
+  entities_dir: "data/entities"
+
+validation:
+  log_file: "validation.log"
+  strict_mode: true
+  allowed_years: [1800, 2025]
+
+testing:
+  coverage_minimum: 80
+  test_dir: "tests"
