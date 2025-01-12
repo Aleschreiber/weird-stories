@@ -31,3 +31,6 @@ web/_site/
 .coverage
 htmlcov/
 venv_test/
+.DS_Store
+*/.DS_Store
+requirements_current.txt

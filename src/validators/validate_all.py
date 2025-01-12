@@ -1,5 +1,5 @@
 from pathlib import Path
-from story_validator import StoryValidator
+from src.validators.story_validator import StoryValidator
 import json
 import sys
 import logging
