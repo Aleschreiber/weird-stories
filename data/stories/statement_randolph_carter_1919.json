@@ -1,0 +1,33 @@
+{
+    "id": "statementcarter1919",
+    "title": {
+      "original": "The Statement of Randolph Carter",
+      "translated": null,
+      "alternate": null
+    },
+    "author": {
+      "name": "H. P. Lovecraft",
+      "birthdeath": "1890-1937",
+      "nationality": "American"
+    },
+    "publication": {
+      "firstpublished": "1919",
+      "collection": "The Vagrant",
+      "year": 1919
+    },
+    "mythos": {
+      "entities": [],
+      "locations": [],
+      "books": [],
+      "characters": ["Randolph Carter"]
+    },
+    "connections": {
+      "relatedstories": []
+    },
+    "metadata": {
+      "added": "2025-01-12",
+      "verified": false,
+      "sources": ["Original publication"]
+    }
+  }
+  

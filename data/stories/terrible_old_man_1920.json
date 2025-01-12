@@ -1,0 +1,32 @@
+{
+    "id": "terribleoldman1920",
+    "title": {
+      "original": "The Terrible Old Man",
+      "translated": null,
+      "alternate": null
+    },
+    "author": {
+      "name": "H. P. Lovecraft",
+      "birthdeath": "1890-1937",
+      "nationality": "American"
+    },
+    "publication": {
+      "firstpublished": "1920",
+      "collection": "The Tryout",
+      "year": 1920
+    },
+    "mythos": {
+      "entities": [],
+      "locations": ["Kingsport"],
+      "books": []
+    },
+    "connections": {
+      "relatedstories": []
+    },
+    "metadata": {
+      "added": "2025-01-12",
+      "verified": false,
+      "sources": ["Original publication"]
+    }
+  }
+  
